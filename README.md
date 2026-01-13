@@ -3,7 +3,7 @@ I'm Nicoh, a Data Scientist based in Southern California & New York City.
 
 I design things that I find cool or that will teach me things. 
 
-I prioritize efficiency, but when I first look at a data set I explore! 
+ALTHOUGH I priortize efficiency... when I first look at a new data set I explore! 
 
 I mainly use R in RStudio but sometimes I play around with Python and SQL. 
 
