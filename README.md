@@ -8,7 +8,7 @@ ALTHOUGH I priortize efficiency... when I first look at a new data set I explore
 I mainly use R in RStudio but sometimes I play around with Python and SQL. 
 
 I like AI and I like video games. So I spend free time building machine learning models for the games I like. I've also dabbled around with LLMs and NLPs. 
-Sometimes I play around with Deepseek R1 which I downloaded with Ollama and Docker to set up a Locally hosted website with the LLM. 
+Sometimes I play around with Deepseek R1 which I downloaded with Ollama and Docker to set up a Locally hosted server with the LLM. 
 
 I love apes. My favorite is the orangutan, although humans are cool too. 
 I go to school @ Columbia University. 
