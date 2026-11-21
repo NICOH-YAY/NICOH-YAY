@@ -1,6 +1,6 @@
 ## Hiya! 🦧
 I'm Nicoh, 
-I use this for fun and cool things like Data Science, Stats, Video Games, and research :D 
+I use this for fun and cool things like Data Science, Statistics, Video Games, and Research :D 
 
 Based in Southern California & New York City. 
 
